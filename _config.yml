@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nekdoxy's Self-Hosted Photo Stream
+title: lens.netlify.com
 email: sasapuksic@gmail.com
 author:
   name: Sasa Puksic
   email: sasapuksic@gmail.com #optional
-  website: https://lens.netlify.com
+  website: https://lens.netlify.com/
 description: >- # this means to ignore newlines until "baseurl:"
   Minimalistic, self-hosted photo stream.
 baseurl: "" # the subpath of your site, e.g. /blog
